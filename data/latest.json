@@ -1,12 +1,12 @@
 {
-  "snapshot_ts": "2026-09-10T17:24:25Z",
+  "snapshot_ts": "2026-09-10T17:36:19Z",
   "focus_sport_family": "football",
   "include_baseball": false,
   "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-09-10/normalized.jsonl",
   "count": 17,
   "top_discrepancies": [
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -24,7 +24,7 @@
       "daily_card_summary": "kalshi has a live game line on Arizona vs Los Angeles C Pro Football game: Los Angeles C wins? | Los Angeles C, while polymarket is nearest on Will Los Angeles C win the Arizona vs Los Angeles C Pro Football game? | Los Angeles C. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13ARILAC-LAC",
         "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -38,7 +38,7 @@
         "yes_ask": 0.81,
         "yes_mid": 0.805,
         "last_price": 0.81,
-        "volume": 25499.63,
+        "volume": 25533.7,
         "liquidity": 0.0,
         "close_time": "2026-09-15T20:25:00Z",
         "status": "active",
@@ -67,7 +67,7 @@
             "no_sub_title": "Los Angeles C",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T23:25:00Z",
-            "open_interest_fp": "90519.26",
+            "open_interest_fp": "90538.59",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.8200",
             "previous_yes_ask_dollars": "0.8200",
@@ -90,12 +90,12 @@
             "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
             "title": "Arizona vs Los Angeles C Pro Football game: Los Angeles C wins?",
             "updated_time": "2026-08-25T01:35:37.635203Z",
-            "volume_24h_fp": "25499.63",
-            "volume_fp": "153554.79",
+            "volume_24h_fp": "25533.70",
+            "volume_fp": "153622.28",
             "yes_ask_dollars": "0.8100",
-            "yes_ask_size_fp": "317290.52",
+            "yes_ask_size_fp": "317260.11",
             "yes_bid_dollars": "0.8000",
-            "yes_bid_size_fp": "117652.61",
+            "yes_bid_size_fp": "117640.57",
             "yes_sub_title": "Los Angeles C",
             "series_ticker": "KXNFLGAME",
             "event_title": "Arizona vs Los Angeles C",
@@ -105,7 +105,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-ari-lac-2026-09-13-1",
         "ticker": "sports-nfl-nfl-ari-lac-2026-09-13-1",
@@ -166,6 +166,24 @@
           "kalshi": 0.010773,
           "polymarket": 0.00738
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 121,
+            "spent_dollars": 99.31,
+            "payout_if_wins_dollars": 121.0,
+            "result_if_wins_dollars": 21.69,
+            "result_if_loses_dollars": -99.31
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 533,
+            "spent_dollars": 99.87,
+            "payout_if_wins_dollars": 533.0,
+            "result_if_wins_dollars": 433.13,
+            "result_if_loses_dollars": -99.87
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 99,
@@ -188,7 +206,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
@@ -206,7 +224,7 @@
       "daily_card_summary": "kalshi has a live game line on Will Oklahoma win the Oklahoma vs Michigan college football game? | Oklahoma, while polymarket is nearest on Will Oklahoma win the Oklahoma vs Michigan College Football game? | Oklahoma. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
         "ticker": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
@@ -219,8 +237,8 @@
         "yes_bid": 0.66,
         "yes_ask": 0.67,
         "yes_mid": 0.665,
-        "last_price": 0.66,
-        "volume": 60617.17,
+        "last_price": 0.67,
+        "volume": 60184.6,
         "liquidity": 0.0,
         "close_time": "2026-09-14T16:00:00Z",
         "status": "active",
@@ -240,7 +258,7 @@
             "expected_expiration_time": "2026-09-12T19:00:00Z",
             "expiration_time": "2026-09-14T16:00:00Z",
             "expiration_value": "",
-            "last_price_dollars": "0.6600",
+            "last_price_dollars": "0.6700",
             "latest_expiration_time": "2026-09-14T16:00:00Z",
             "liquidity_dollars": "0.0000",
             "market_type": "binary",
@@ -249,7 +267,7 @@
             "no_sub_title": "Oklahoma",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-12T19:00:00Z",
-            "open_interest_fp": "334030.16",
+            "open_interest_fp": "334041.82",
             "open_time": "2026-05-20T19:08:00Z",
             "previous_price_dollars": "0.6800",
             "previous_yes_ask_dollars": "0.6800",
@@ -271,10 +289,10 @@
             "ticker": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
             "title": "Will Oklahoma win the Oklahoma vs Michigan college football game?",
             "updated_time": "2026-08-19T23:57:54.088216Z",
-            "volume_24h_fp": "60617.17",
-            "volume_fp": "407777.18",
+            "volume_24h_fp": "60184.60",
+            "volume_fp": "407788.84",
             "yes_ask_dollars": "0.6700",
-            "yes_ask_size_fp": "217579.71",
+            "yes_ask_size_fp": "214091.17",
             "yes_bid_dollars": "0.6600",
             "yes_bid_size_fp": "40596.69",
             "yes_sub_title": "Oklahoma",
@@ -286,7 +304,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-cfb-cfb-okl-mich-2026-09-12-0",
         "ticker": "sports-cfb-cfb-okl-mich-2026-09-12-0",
@@ -347,6 +365,24 @@
           "kalshi": 0.015477,
           "polymarket": 0.01088
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 145,
+            "spent_dollars": 99.39,
+            "payout_if_wins_dollars": 145.0,
+            "result_if_wins_dollars": 45.61,
+            "result_if_loses_dollars": -99.39
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 302,
+            "spent_dollars": 99.93,
+            "payout_if_wins_dollars": 302.0,
+            "result_if_wins_dollars": 202.07,
+            "result_if_loses_dollars": -99.93
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -369,7 +405,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFGAME-26SEP11MIZZKU-KU",
@@ -387,7 +423,7 @@
       "daily_card_summary": "kalshi has a live game line on Will Kansas win the Missouri vs Kansas college football game? | Kansas, while polymarket is nearest on Will Kansas win the Missouri vs Kansas College Football game? | Kansas. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFGAME-26SEP11MIZZKU-KU",
         "ticker": "KXNCAAFGAME-26SEP11MIZZKU-KU",
@@ -430,7 +466,7 @@
             "no_sub_title": "Kansas",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-12T03:00:00Z",
-            "open_interest_fp": "16340.09",
+            "open_interest_fp": "16369.03",
             "open_time": "2026-05-20T19:08:00Z",
             "previous_price_dollars": "0.3300",
             "previous_yes_ask_dollars": "0.3300",
@@ -453,9 +489,9 @@
             "title": "Will Kansas win the Missouri vs Kansas college football game?",
             "updated_time": "2026-08-19T23:57:53.931752Z",
             "volume_24h_fp": "4229.46",
-            "volume_fp": "19263.44",
+            "volume_fp": "19292.38",
             "yes_ask_dollars": "0.3300",
-            "yes_ask_size_fp": "95671.39",
+            "yes_ask_size_fp": "93851.45",
             "yes_bid_dollars": "0.3200",
             "yes_bid_size_fp": "72737.77",
             "yes_sub_title": "Kansas",
@@ -467,7 +503,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-cfb-cfb-missr-kan-2026-09-11-1",
         "ticker": "sports-cfb-cfb-missr-kan-2026-09-11-1",
@@ -528,6 +564,24 @@
           "kalshi": 0.015477,
           "polymarket": 0.01122
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 289,
+            "spent_dollars": 99.84,
+            "payout_if_wins_dollars": 289.0,
+            "result_if_wins_dollars": 189.16,
+            "result_if_loses_dollars": -99.84
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 148,
+            "spent_dollars": 99.34,
+            "payout_if_wins_dollars": 148.0,
+            "result_if_wins_dollars": 48.66,
+            "result_if_loses_dollars": -99.34
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -550,7 +604,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13ATLPIT-PIT",
@@ -568,7 +622,7 @@
       "daily_card_summary": "kalshi has a live game line on Atlanta vs Pittsburgh Pro Football game: Pittsburgh wins? | Pittsburgh, while polymarket is nearest on Will Pittsburgh win the Atlanta vs Pittsburgh Pro Football game? | Pittsburgh. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13ATLPIT-PIT",
         "ticker": "KXNFLGAME-26SEP13ATLPIT-PIT",
@@ -582,7 +636,7 @@
         "yes_ask": 0.63,
         "yes_mid": 0.625,
         "last_price": 0.63,
-        "volume": 34414.44,
+        "volume": 34543.65,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -611,7 +665,7 @@
             "no_sub_title": "Pittsburgh",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "112546.63",
+            "open_interest_fp": "112618.68",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.6300",
             "previous_yes_ask_dollars": "0.6300",
@@ -633,12 +687,12 @@
             "ticker": "KXNFLGAME-26SEP13ATLPIT-PIT",
             "title": "Atlanta vs Pittsburgh Pro Football game: Pittsburgh wins?",
             "updated_time": "2026-08-25T01:35:38.036659Z",
-            "volume_24h_fp": "34414.44",
-            "volume_fp": "125018.70",
+            "volume_24h_fp": "34543.65",
+            "volume_fp": "125152.27",
             "yes_ask_dollars": "0.6300",
-            "yes_ask_size_fp": "65009.61",
+            "yes_ask_size_fp": "61391.80",
             "yes_bid_dollars": "0.6200",
-            "yes_bid_size_fp": "157376.62",
+            "yes_bid_size_fp": "156943.42",
             "yes_sub_title": "Pittsburgh",
             "series_ticker": "KXNFLGAME",
             "event_title": "Atlanta vs Pittsburgh",
@@ -648,7 +702,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-atl-pit-2026-09-13-1",
         "ticker": "sports-nfl-nfl-atl-pit-2026-09-13-1",
@@ -709,6 +763,24 @@
           "kalshi": 0.016317,
           "polymarket": 0.01152
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 154,
+            "spent_dollars": 99.53,
+            "payout_if_wins_dollars": 154.0,
+            "result_if_wins_dollars": 54.47,
+            "result_if_loses_dollars": -99.53
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 269,
+            "spent_dollars": 99.94,
+            "payout_if_wins_dollars": 269.0,
+            "result_if_wins_dollars": 169.06,
+            "result_if_loses_dollars": -99.94
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -731,7 +803,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13BALIND-IND",
@@ -749,7 +821,7 @@
       "daily_card_summary": "kalshi has a live game line on Baltimore vs Indianapolis Pro Football game: Indianapolis wins? | Indianapolis, while polymarket is nearest on Will Indianapolis win the Baltimore vs Indianapolis Pro Football game? | Indianapolis. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13BALIND-IND",
         "ticker": "KXNFLGAME-26SEP13BALIND-IND",
@@ -763,7 +835,7 @@
         "yes_ask": 0.39,
         "yes_mid": 0.385,
         "last_price": 0.39,
-        "volume": 6491.33,
+        "volume": 6563.77,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -792,7 +864,7 @@
             "no_sub_title": "Indianapolis",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "37865.05",
+            "open_interest_fp": "37769.14",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.3900",
             "previous_yes_ask_dollars": "0.3900",
@@ -814,12 +886,12 @@
             "ticker": "KXNFLGAME-26SEP13BALIND-IND",
             "title": "Baltimore vs Indianapolis Pro Football game: Indianapolis wins?",
             "updated_time": "2026-08-25T01:35:38.683294Z",
-            "volume_24h_fp": "6491.33",
-            "volume_fp": "44326.91",
+            "volume_24h_fp": "6563.77",
+            "volume_fp": "44435.14",
             "yes_ask_dollars": "0.3900",
-            "yes_ask_size_fp": "7634.08",
+            "yes_ask_size_fp": "7627.92",
             "yes_bid_dollars": "0.3800",
-            "yes_bid_size_fp": "180881.09",
+            "yes_bid_size_fp": "183779.02",
             "yes_sub_title": "Indianapolis",
             "series_ticker": "KXNFLGAME",
             "event_title": "Baltimore vs Indianapolis",
@@ -829,7 +901,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-bal-ind-2026-09-13-1",
         "ticker": "sports-nfl-nfl-bal-ind-2026-09-13-1",
@@ -890,6 +962,24 @@
           "kalshi": 0.016653,
           "polymarket": 0.012
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 245,
+            "spent_dollars": 99.63,
+            "payout_if_wins_dollars": 245.0,
+            "result_if_wins_dollars": 145.37,
+            "result_if_loses_dollars": -99.63
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 163,
+            "spent_dollars": 99.76,
+            "payout_if_wins_dollars": 163.0,
+            "result_if_wins_dollars": 63.24,
+            "result_if_loses_dollars": -99.76
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -914,7 +1004,7 @@
   ],
   "top_discrepancies_nfl": [
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -932,7 +1022,7 @@
       "daily_card_summary": "kalshi has a live game line on Arizona vs Los Angeles C Pro Football game: Los Angeles C wins? | Los Angeles C, while polymarket is nearest on Will Los Angeles C win the Arizona vs Los Angeles C Pro Football game? | Los Angeles C. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13ARILAC-LAC",
         "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -946,7 +1036,7 @@
         "yes_ask": 0.81,
         "yes_mid": 0.805,
         "last_price": 0.81,
-        "volume": 25499.63,
+        "volume": 25533.7,
         "liquidity": 0.0,
         "close_time": "2026-09-15T20:25:00Z",
         "status": "active",
@@ -975,7 +1065,7 @@
             "no_sub_title": "Los Angeles C",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T23:25:00Z",
-            "open_interest_fp": "90519.26",
+            "open_interest_fp": "90538.59",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.8200",
             "previous_yes_ask_dollars": "0.8200",
@@ -998,12 +1088,12 @@
             "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
             "title": "Arizona vs Los Angeles C Pro Football game: Los Angeles C wins?",
             "updated_time": "2026-08-25T01:35:37.635203Z",
-            "volume_24h_fp": "25499.63",
-            "volume_fp": "153554.79",
+            "volume_24h_fp": "25533.70",
+            "volume_fp": "153622.28",
             "yes_ask_dollars": "0.8100",
-            "yes_ask_size_fp": "317290.52",
+            "yes_ask_size_fp": "317260.11",
             "yes_bid_dollars": "0.8000",
-            "yes_bid_size_fp": "117652.61",
+            "yes_bid_size_fp": "117640.57",
             "yes_sub_title": "Los Angeles C",
             "series_ticker": "KXNFLGAME",
             "event_title": "Arizona vs Los Angeles C",
@@ -1013,7 +1103,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-ari-lac-2026-09-13-1",
         "ticker": "sports-nfl-nfl-ari-lac-2026-09-13-1",
@@ -1074,6 +1164,24 @@
           "kalshi": 0.010773,
           "polymarket": 0.00738
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 121,
+            "spent_dollars": 99.31,
+            "payout_if_wins_dollars": 121.0,
+            "result_if_wins_dollars": 21.69,
+            "result_if_loses_dollars": -99.31
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 533,
+            "spent_dollars": 99.87,
+            "payout_if_wins_dollars": 533.0,
+            "result_if_wins_dollars": 433.13,
+            "result_if_loses_dollars": -99.87
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 99,
@@ -1096,7 +1204,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13ATLPIT-PIT",
@@ -1114,7 +1222,7 @@
       "daily_card_summary": "kalshi has a live game line on Atlanta vs Pittsburgh Pro Football game: Pittsburgh wins? | Pittsburgh, while polymarket is nearest on Will Pittsburgh win the Atlanta vs Pittsburgh Pro Football game? | Pittsburgh. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13ATLPIT-PIT",
         "ticker": "KXNFLGAME-26SEP13ATLPIT-PIT",
@@ -1128,7 +1236,7 @@
         "yes_ask": 0.63,
         "yes_mid": 0.625,
         "last_price": 0.63,
-        "volume": 34414.44,
+        "volume": 34543.65,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -1157,7 +1265,7 @@
             "no_sub_title": "Pittsburgh",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "112546.63",
+            "open_interest_fp": "112618.68",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.6300",
             "previous_yes_ask_dollars": "0.6300",
@@ -1179,12 +1287,12 @@
             "ticker": "KXNFLGAME-26SEP13ATLPIT-PIT",
             "title": "Atlanta vs Pittsburgh Pro Football game: Pittsburgh wins?",
             "updated_time": "2026-08-25T01:35:38.036659Z",
-            "volume_24h_fp": "34414.44",
-            "volume_fp": "125018.70",
+            "volume_24h_fp": "34543.65",
+            "volume_fp": "125152.27",
             "yes_ask_dollars": "0.6300",
-            "yes_ask_size_fp": "65009.61",
+            "yes_ask_size_fp": "61391.80",
             "yes_bid_dollars": "0.6200",
-            "yes_bid_size_fp": "157376.62",
+            "yes_bid_size_fp": "156943.42",
             "yes_sub_title": "Pittsburgh",
             "series_ticker": "KXNFLGAME",
             "event_title": "Atlanta vs Pittsburgh",
@@ -1194,7 +1302,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-atl-pit-2026-09-13-1",
         "ticker": "sports-nfl-nfl-atl-pit-2026-09-13-1",
@@ -1255,6 +1363,24 @@
           "kalshi": 0.016317,
           "polymarket": 0.01152
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 154,
+            "spent_dollars": 99.53,
+            "payout_if_wins_dollars": 154.0,
+            "result_if_wins_dollars": 54.47,
+            "result_if_loses_dollars": -99.53
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 269,
+            "spent_dollars": 99.94,
+            "payout_if_wins_dollars": 269.0,
+            "result_if_wins_dollars": 169.06,
+            "result_if_loses_dollars": -99.94
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -1277,7 +1403,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13BALIND-IND",
@@ -1295,7 +1421,7 @@
       "daily_card_summary": "kalshi has a live game line on Baltimore vs Indianapolis Pro Football game: Indianapolis wins? | Indianapolis, while polymarket is nearest on Will Indianapolis win the Baltimore vs Indianapolis Pro Football game? | Indianapolis. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13BALIND-IND",
         "ticker": "KXNFLGAME-26SEP13BALIND-IND",
@@ -1309,7 +1435,7 @@
         "yes_ask": 0.39,
         "yes_mid": 0.385,
         "last_price": 0.39,
-        "volume": 6491.33,
+        "volume": 6563.77,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -1338,7 +1464,7 @@
             "no_sub_title": "Indianapolis",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "37865.05",
+            "open_interest_fp": "37769.14",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.3900",
             "previous_yes_ask_dollars": "0.3900",
@@ -1360,12 +1486,12 @@
             "ticker": "KXNFLGAME-26SEP13BALIND-IND",
             "title": "Baltimore vs Indianapolis Pro Football game: Indianapolis wins?",
             "updated_time": "2026-08-25T01:35:38.683294Z",
-            "volume_24h_fp": "6491.33",
-            "volume_fp": "44326.91",
+            "volume_24h_fp": "6563.77",
+            "volume_fp": "44435.14",
             "yes_ask_dollars": "0.3900",
-            "yes_ask_size_fp": "7634.08",
+            "yes_ask_size_fp": "7627.92",
             "yes_bid_dollars": "0.3800",
-            "yes_bid_size_fp": "180881.09",
+            "yes_bid_size_fp": "183779.02",
             "yes_sub_title": "Indianapolis",
             "series_ticker": "KXNFLGAME",
             "event_title": "Baltimore vs Indianapolis",
@@ -1375,7 +1501,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-bal-ind-2026-09-13-1",
         "ticker": "sports-nfl-nfl-bal-ind-2026-09-13-1",
@@ -1436,6 +1562,24 @@
           "kalshi": 0.016653,
           "polymarket": 0.012
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 245,
+            "spent_dollars": 99.63,
+            "payout_if_wins_dollars": 245.0,
+            "result_if_wins_dollars": 145.37,
+            "result_if_loses_dollars": -99.63
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 163,
+            "spent_dollars": 99.76,
+            "payout_if_wins_dollars": 163.0,
+            "result_if_wins_dollars": 63.24,
+            "result_if_loses_dollars": -99.76
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -1458,7 +1602,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13CLEJAC-JAC",
@@ -1476,7 +1620,7 @@
       "daily_card_summary": "kalshi has a live game line on Cleveland vs Jacksonville Pro Football game: Jacksonville wins? | Jacksonville, while polymarket is nearest on Will Jacksonville win the Cleveland vs Jacksonville Pro Football game? | Jacksonville. The spread is 0.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13CLEJAC-JAC",
         "ticker": "KXNFLGAME-26SEP13CLEJAC-JAC",
@@ -1490,7 +1634,7 @@
         "yes_ask": 0.79,
         "yes_mid": 0.785,
         "last_price": 0.79,
-        "volume": 18988.52,
+        "volume": 19025.67,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -1519,7 +1663,7 @@
             "no_sub_title": "Jacksonville",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "70617.45",
+            "open_interest_fp": "70657.09",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.7900",
             "previous_yes_ask_dollars": "0.7900",
@@ -1541,12 +1685,12 @@
             "ticker": "KXNFLGAME-26SEP13CLEJAC-JAC",
             "title": "Cleveland vs Jacksonville Pro Football game: Jacksonville wins?",
             "updated_time": "2026-08-25T01:35:39.944419Z",
-            "volume_24h_fp": "18988.52",
-            "volume_fp": "91006.04",
+            "volume_24h_fp": "19025.67",
+            "volume_fp": "91070.36",
             "yes_ask_dollars": "0.7900",
-            "yes_ask_size_fp": "111435.77",
+            "yes_ask_size_fp": "111396.13",
             "yes_bid_dollars": "0.7800",
-            "yes_bid_size_fp": "118054.65",
+            "yes_bid_size_fp": "118029.97",
             "yes_sub_title": "Jacksonville",
             "series_ticker": "KXNFLGAME",
             "event_title": "Cleveland vs Jacksonville",
@@ -1556,7 +1700,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-cle-jax-2026-09-13-1",
         "ticker": "sports-nfl-nfl-cle-jax-2026-09-13-1",
@@ -1617,6 +1761,24 @@
           "kalshi": 0.011613,
           "polymarket": 0.008295
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 124,
+            "spent_dollars": 99.4,
+            "payout_if_wins_dollars": 124.0,
+            "result_if_wins_dollars": 24.6,
+            "result_if_loses_dollars": -99.4
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 458,
+            "spent_dollars": 99.98,
+            "payout_if_wins_dollars": 458.0,
+            "result_if_wins_dollars": 358.02,
+            "result_if_loses_dollars": -99.98
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -1639,7 +1801,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNFLGAME-26SEP13NODET-NO",
@@ -1657,7 +1819,7 @@
       "daily_card_summary": "kalshi has a live game line on New Orleans vs Detroit Pro Football game: New Orleans wins? | New Orleans, while polymarket is nearest on Will New Orleans win the New Orleans vs Detroit Pro Football game? | New Orleans. The spread is 0.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNFLGAME-26SEP13NODET-NO",
         "ticker": "KXNFLGAME-26SEP13NODET-NO",
@@ -1671,7 +1833,7 @@
         "yes_ask": 0.26,
         "yes_mid": 0.255,
         "last_price": 0.26,
-        "volume": 17775.3,
+        "volume": 17852.08,
         "liquidity": 0.0,
         "close_time": "2026-09-15T17:00:00Z",
         "status": "active",
@@ -1700,7 +1862,7 @@
             "no_sub_title": "New Orleans",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-13T20:00:00Z",
-            "open_interest_fp": "89339.28",
+            "open_interest_fp": "89485.38",
             "open_time": "2026-05-15T17:04:00Z",
             "previous_price_dollars": "0.2600",
             "previous_yes_ask_dollars": "0.2600",
@@ -1722,10 +1884,10 @@
             "ticker": "KXNFLGAME-26SEP13NODET-NO",
             "title": "New Orleans vs Detroit Pro Football game: New Orleans wins?",
             "updated_time": "2026-08-25T01:35:41.714948Z",
-            "volume_24h_fp": "17775.30",
-            "volume_fp": "109554.79",
+            "volume_24h_fp": "17852.08",
+            "volume_fp": "109700.89",
             "yes_ask_dollars": "0.2600",
-            "yes_ask_size_fp": "16989.61",
+            "yes_ask_size_fp": "16843.51",
             "yes_bid_dollars": "0.2500",
             "yes_bid_size_fp": "183224.33",
             "yes_sub_title": "New Orleans",
@@ -1737,7 +1899,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-nfl-nfl-no-det-2026-09-13-0",
         "ticker": "sports-nfl-nfl-no-det-2026-09-13-0",
@@ -1798,6 +1960,24 @@
           "kalshi": 0.013468,
           "polymarket": 0.00962
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 365,
+            "spent_dollars": 99.82,
+            "payout_if_wins_dollars": 365.0,
+            "result_if_wins_dollars": 265.18,
+            "result_if_loses_dollars": -99.82
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 133,
+            "spent_dollars": 99.7,
+            "payout_if_wins_dollars": 133.0,
+            "result_if_wins_dollars": 33.3,
+            "result_if_loses_dollars": -99.7
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 97,
@@ -1822,7 +2002,7 @@
   ],
   "top_discrepancies_ncaaf": [
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
@@ -1840,7 +2020,7 @@
       "daily_card_summary": "kalshi has a live game line on Will Oklahoma win the Oklahoma vs Michigan college football game? | Oklahoma, while polymarket is nearest on Will Oklahoma win the Oklahoma vs Michigan College Football game? | Oklahoma. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
         "ticker": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
@@ -1853,8 +2033,8 @@
         "yes_bid": 0.66,
         "yes_ask": 0.67,
         "yes_mid": 0.665,
-        "last_price": 0.66,
-        "volume": 60617.17,
+        "last_price": 0.67,
+        "volume": 60184.6,
         "liquidity": 0.0,
         "close_time": "2026-09-14T16:00:00Z",
         "status": "active",
@@ -1874,7 +2054,7 @@
             "expected_expiration_time": "2026-09-12T19:00:00Z",
             "expiration_time": "2026-09-14T16:00:00Z",
             "expiration_value": "",
-            "last_price_dollars": "0.6600",
+            "last_price_dollars": "0.6700",
             "latest_expiration_time": "2026-09-14T16:00:00Z",
             "liquidity_dollars": "0.0000",
             "market_type": "binary",
@@ -1883,7 +2063,7 @@
             "no_sub_title": "Oklahoma",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-12T19:00:00Z",
-            "open_interest_fp": "334030.16",
+            "open_interest_fp": "334041.82",
             "open_time": "2026-05-20T19:08:00Z",
             "previous_price_dollars": "0.6800",
             "previous_yes_ask_dollars": "0.6800",
@@ -1905,10 +2085,10 @@
             "ticker": "KXNCAAFGAME-26SEP12OKLAMICH-OKLA",
             "title": "Will Oklahoma win the Oklahoma vs Michigan college football game?",
             "updated_time": "2026-08-19T23:57:54.088216Z",
-            "volume_24h_fp": "60617.17",
-            "volume_fp": "407777.18",
+            "volume_24h_fp": "60184.60",
+            "volume_fp": "407788.84",
             "yes_ask_dollars": "0.6700",
-            "yes_ask_size_fp": "217579.71",
+            "yes_ask_size_fp": "214091.17",
             "yes_bid_dollars": "0.6600",
             "yes_bid_size_fp": "40596.69",
             "yes_sub_title": "Oklahoma",
@@ -1920,7 +2100,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-cfb-cfb-okl-mich-2026-09-12-0",
         "ticker": "sports-cfb-cfb-okl-mich-2026-09-12-0",
@@ -1981,6 +2161,24 @@
           "kalshi": 0.015477,
           "polymarket": 0.01088
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 145,
+            "spent_dollars": 99.39,
+            "payout_if_wins_dollars": 145.0,
+            "result_if_wins_dollars": 45.61,
+            "result_if_loses_dollars": -99.39
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 302,
+            "spent_dollars": 99.93,
+            "payout_if_wins_dollars": 302.0,
+            "result_if_wins_dollars": 202.07,
+            "result_if_loses_dollars": -99.93
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -2003,7 +2201,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFGAME-26SEP11MIZZKU-KU",
@@ -2021,7 +2219,7 @@
       "daily_card_summary": "kalshi has a live game line on Will Kansas win the Missouri vs Kansas college football game? | Kansas, while polymarket is nearest on Will Kansas win the Missouri vs Kansas College Football game? | Kansas. The spread is 1.5 pts.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFGAME-26SEP11MIZZKU-KU",
         "ticker": "KXNCAAFGAME-26SEP11MIZZKU-KU",
@@ -2064,7 +2262,7 @@
             "no_sub_title": "Kansas",
             "notional_value_dollars": "1.0000",
             "occurrence_datetime": "2026-09-12T03:00:00Z",
-            "open_interest_fp": "16340.09",
+            "open_interest_fp": "16369.03",
             "open_time": "2026-05-20T19:08:00Z",
             "previous_price_dollars": "0.3300",
             "previous_yes_ask_dollars": "0.3300",
@@ -2087,9 +2285,9 @@
             "title": "Will Kansas win the Missouri vs Kansas college football game?",
             "updated_time": "2026-08-19T23:57:53.931752Z",
             "volume_24h_fp": "4229.46",
-            "volume_fp": "19263.44",
+            "volume_fp": "19292.38",
             "yes_ask_dollars": "0.3300",
-            "yes_ask_size_fp": "95671.39",
+            "yes_ask_size_fp": "93851.45",
             "yes_bid_dollars": "0.3200",
             "yes_bid_size_fp": "72737.77",
             "yes_sub_title": "Kansas",
@@ -2101,7 +2299,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "poly-us-sports-cfb-cfb-missr-kan-2026-09-11-1",
         "ticker": "sports-cfb-cfb-missr-kan-2026-09-11-1",
@@ -2162,6 +2360,24 @@
           "kalshi": 0.015477,
           "polymarket": 0.01122
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "kalshi",
+            "contracts": 289,
+            "spent_dollars": 99.84,
+            "payout_if_wins_dollars": 289.0,
+            "result_if_wins_dollars": 189.16,
+            "result_if_loses_dollars": -99.84
+          },
+          "no": {
+            "venue": "polymarket",
+            "contracts": 148,
+            "spent_dollars": 99.34,
+            "payout_if_wins_dollars": 148.0,
+            "result_if_wins_dollars": 48.66,
+            "result_if_loses_dollars": -99.34
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 98,
@@ -2186,7 +2402,7 @@
   ],
   "history_discrepancies": [
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFPLAYOFF-26-UVA",
@@ -2204,7 +2420,7 @@
       "daily_card_summary": "kalshi vs polymarket on football shows 14.0 pts disagreement.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFPLAYOFF-26-UVA",
         "ticker": "KXNCAAFPLAYOFF-26-UVA",
@@ -2284,7 +2500,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "3362967",
         "ticker": "will-virginia-make-college-football-playoff-quarterfinals-20260803204558976",
@@ -2317,7 +2533,7 @@
           "closed": false,
           "marketMakerAddress": "",
           "createdAt": "2026-08-05T16:18:06.596341Z",
-          "updatedAt": "2026-09-10T17:22:19.841558Z",
+          "updatedAt": "2026-09-10T17:34:07.368718Z",
           "new": false,
           "featured": false,
           "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -2367,7 +2583,7 @@
           "spread": 0.05,
           "oneDayPriceChange": -0.205,
           "oneWeekPriceChange": -0.195,
-          "oneMonthPriceChange": -0.325,
+          "oneMonthPriceChange": -0.21,
           "bestBid": 0.03,
           "bestAsk": 0.08,
           "automaticallyActive": true,
@@ -2467,6 +2683,24 @@
           "polymarket": 0.00368,
           "kalshi": 0.009877
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "polymarket",
+            "contracts": 1195,
+            "spent_dollars": 100.0,
+            "payout_if_wins_dollars": 1195.0,
+            "result_if_wins_dollars": 1095.0,
+            "result_if_loses_dollars": -100.0
+          },
+          "no": {
+            "venue": "kalshi",
+            "contracts": 119,
+            "spent_dollars": 99.95,
+            "payout_if_wins_dollars": 119.0,
+            "result_if_wins_dollars": 19.05,
+            "result_if_loses_dollars": -99.95
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 108,
@@ -2489,7 +2723,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFPLAYOFF-26-VAN",
@@ -2507,7 +2741,7 @@
       "daily_card_summary": "kalshi vs polymarket on football shows 3.0 pts disagreement.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFPLAYOFF-26-VAN",
         "ticker": "KXNCAAFPLAYOFF-26-VAN",
@@ -2587,7 +2821,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "3362968",
         "ticker": "will-vanderbilt-make-college-football-playoff-quarterfinals-20260803204558977",
@@ -2602,7 +2836,7 @@
         "yes_mid": 0.055,
         "last_price": 0.08,
         "volume": 40.0,
-        "liquidity": 150.3151,
+        "liquidity": 148.4142,
         "close_time": null,
         "status": "active",
         "raw": {
@@ -2611,7 +2845,7 @@
           "conditionId": "0x33d25f344e4256da41e808ba608b44bd4f8577bcc1ebeae8dda047c227c419b4",
           "slug": "will-vanderbilt-make-college-football-playoff-quarterfinals-20260803204558977",
           "resolutionSource": "",
-          "liquidity": "150.3151",
+          "liquidity": "148.4142",
           "startDate": "2026-08-05T16:21:15.05836Z",
           "description": "This market will resolve \"Yes\" if the listed team reaches the quarterfinal round of the 2026 College Football Playoff. Otherwise, this market will resolve \"No\".\n\nThe \"quarterfinal round\" refers to the round of the 12-team College Football Playoff for the 2026 season in which eight teams remain (the four first-round winners plus the four teams seeded 1\u20134 that received first-round byes). A team counts as reaching the quarterfinals if it is scheduled to play in a quarterfinal game, whether by receiving a top-4 seed and a first-round bye or by winning its first-round game.\n\nIf the College Football Playoff for the 2026 season is canceled or the quarterfinal round is not played by January 13, 2027 11:59 PM ET, this market will resolve \"No\".\n\nThe primary resolution source will be official information from the College Football Playoff (https://collegefootballplayoff.com); however, a consensus of credible reporting may also be used.",
           "outcomes": "[\"Yes\", \"No\"]",
@@ -2621,7 +2855,7 @@
           "closed": false,
           "marketMakerAddress": "",
           "createdAt": "2026-08-05T16:18:06.729087Z",
-          "updatedAt": "2026-09-10T17:22:19.841558Z",
+          "updatedAt": "2026-09-10T17:34:07.368718Z",
           "new": false,
           "featured": false,
           "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -2635,7 +2869,7 @@
           "orderPriceMinTickSize": 0.01,
           "orderMinSize": 5,
           "volumeNum": 40,
-          "liquidityNum": 150.3151,
+          "liquidityNum": 148.4142,
           "startDateIso": "2026-08-05",
           "hasReviewedDates": true,
           "clobTokenIds": "[\"23765006813210143379681793837023735554628507512149063310037034059610425135025\", \"64758813100956569559209301744785940132722457536151214749595410164101154830631\"]",
@@ -2643,7 +2877,7 @@
           "umaBond": "500",
           "umaReward": "3.5",
           "volumeClob": 40,
-          "liquidityClob": 150.3151,
+          "liquidityClob": 148.4142,
           "makerBaseFee": 1000,
           "takerBaseFee": 1000,
           "customLiveness": 0,
@@ -2772,6 +3006,24 @@
         "fee_breakdown": {
           "polymarket": 0.003255,
           "kalshi": 0.005152
+        },
+        "standalone_checks": {
+          "yes": {
+            "venue": "polymarket",
+            "contracts": 1365,
+            "spent_dollars": 99.99,
+            "payout_if_wins_dollars": 1365.0,
+            "result_if_wins_dollars": 1265.01,
+            "result_if_loses_dollars": -99.99
+          },
+          "no": {
+            "venue": "kalshi",
+            "contracts": 108,
+            "spent_dollars": 99.92,
+            "payout_if_wins_dollars": 108.0,
+            "result_if_wins_dollars": 8.08,
+            "result_if_loses_dollars": -99.92
+          }
         },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
@@ -2798,7 +3050,7 @@
   "history_discrepancies_nfl": [],
   "history_discrepancies_ncaaf": [
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFPLAYOFF-26-UVA",
@@ -2816,7 +3068,7 @@
       "daily_card_summary": "kalshi vs polymarket on football shows 14.0 pts disagreement.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFPLAYOFF-26-UVA",
         "ticker": "KXNCAAFPLAYOFF-26-UVA",
@@ -2896,7 +3148,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "3362967",
         "ticker": "will-virginia-make-college-football-playoff-quarterfinals-20260803204558976",
@@ -2929,7 +3181,7 @@
           "closed": false,
           "marketMakerAddress": "",
           "createdAt": "2026-08-05T16:18:06.596341Z",
-          "updatedAt": "2026-09-10T17:22:19.841558Z",
+          "updatedAt": "2026-09-10T17:34:07.368718Z",
           "new": false,
           "featured": false,
           "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -2979,7 +3231,7 @@
           "spread": 0.05,
           "oneDayPriceChange": -0.205,
           "oneWeekPriceChange": -0.195,
-          "oneMonthPriceChange": -0.325,
+          "oneMonthPriceChange": -0.21,
           "bestBid": 0.03,
           "bestAsk": 0.08,
           "automaticallyActive": true,
@@ -3079,6 +3331,24 @@
           "polymarket": 0.00368,
           "kalshi": 0.009877
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "polymarket",
+            "contracts": 1195,
+            "spent_dollars": 100.0,
+            "payout_if_wins_dollars": 1195.0,
+            "result_if_wins_dollars": 1095.0,
+            "result_if_loses_dollars": -100.0
+          },
+          "no": {
+            "venue": "kalshi",
+            "contracts": 119,
+            "spent_dollars": 99.95,
+            "payout_if_wins_dollars": 119.0,
+            "result_if_wins_dollars": 19.05,
+            "result_if_loses_dollars": -99.95
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 108,
@@ -3101,7 +3371,7 @@
       }
     },
     {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue_a": "kalshi",
       "venue_b": "polymarket",
       "market_a_id": "KXNCAAFPLAYOFF-26-VAN",
@@ -3119,7 +3389,7 @@
       "daily_card_summary": "kalshi vs polymarket on football shows 3.0 pts disagreement.",
       "daily_card_cta": "Read today\u2019s mispricing board",
       "market_a": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "kalshi",
         "market_id": "KXNCAAFPLAYOFF-26-VAN",
         "ticker": "KXNCAAFPLAYOFF-26-VAN",
@@ -3199,7 +3469,7 @@
         }
       },
       "market_b": {
-        "snapshot_ts": "2026-09-10T17:24:12Z",
+        "snapshot_ts": "2026-09-10T17:36:10Z",
         "venue": "polymarket",
         "market_id": "3362968",
         "ticker": "will-vanderbilt-make-college-football-playoff-quarterfinals-20260803204558977",
@@ -3214,7 +3484,7 @@
         "yes_mid": 0.055,
         "last_price": 0.08,
         "volume": 40.0,
-        "liquidity": 150.3151,
+        "liquidity": 148.4142,
         "close_time": null,
         "status": "active",
         "raw": {
@@ -3223,7 +3493,7 @@
           "conditionId": "0x33d25f344e4256da41e808ba608b44bd4f8577bcc1ebeae8dda047c227c419b4",
           "slug": "will-vanderbilt-make-college-football-playoff-quarterfinals-20260803204558977",
           "resolutionSource": "",
-          "liquidity": "150.3151",
+          "liquidity": "148.4142",
           "startDate": "2026-08-05T16:21:15.05836Z",
           "description": "This market will resolve \"Yes\" if the listed team reaches the quarterfinal round of the 2026 College Football Playoff. Otherwise, this market will resolve \"No\".\n\nThe \"quarterfinal round\" refers to the round of the 12-team College Football Playoff for the 2026 season in which eight teams remain (the four first-round winners plus the four teams seeded 1\u20134 that received first-round byes). A team counts as reaching the quarterfinals if it is scheduled to play in a quarterfinal game, whether by receiving a top-4 seed and a first-round bye or by winning its first-round game.\n\nIf the College Football Playoff for the 2026 season is canceled or the quarterfinal round is not played by January 13, 2027 11:59 PM ET, this market will resolve \"No\".\n\nThe primary resolution source will be official information from the College Football Playoff (https://collegefootballplayoff.com); however, a consensus of credible reporting may also be used.",
           "outcomes": "[\"Yes\", \"No\"]",
@@ -3233,7 +3503,7 @@
           "closed": false,
           "marketMakerAddress": "",
           "createdAt": "2026-08-05T16:18:06.729087Z",
-          "updatedAt": "2026-09-10T17:22:19.841558Z",
+          "updatedAt": "2026-09-10T17:34:07.368718Z",
           "new": false,
           "featured": false,
           "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
@@ -3247,7 +3517,7 @@
           "orderPriceMinTickSize": 0.01,
           "orderMinSize": 5,
           "volumeNum": 40,
-          "liquidityNum": 150.3151,
+          "liquidityNum": 148.4142,
           "startDateIso": "2026-08-05",
           "hasReviewedDates": true,
           "clobTokenIds": "[\"23765006813210143379681793837023735554628507512149063310037034059610425135025\", \"64758813100956569559209301744785940132722457536151214749595410164101154830631\"]",
@@ -3255,7 +3525,7 @@
           "umaBond": "500",
           "umaReward": "3.5",
           "volumeClob": 40,
-          "liquidityClob": 150.3151,
+          "liquidityClob": 148.4142,
           "makerBaseFee": 1000,
           "takerBaseFee": 1000,
           "customLiveness": 0,
@@ -3385,6 +3655,24 @@
           "polymarket": 0.003255,
           "kalshi": 0.005152
         },
+        "standalone_checks": {
+          "yes": {
+            "venue": "polymarket",
+            "contracts": 1365,
+            "spent_dollars": 99.99,
+            "payout_if_wins_dollars": 1365.0,
+            "result_if_wins_dollars": 1265.01,
+            "result_if_loses_dollars": -99.99
+          },
+          "no": {
+            "venue": "kalshi",
+            "contracts": 108,
+            "spent_dollars": 99.92,
+            "payout_if_wins_dollars": 108.0,
+            "result_if_wins_dollars": 8.08,
+            "result_if_loses_dollars": -99.92
+          }
+        },
         "bankroll_check": {
           "bankroll_dollars": 100.0,
           "contracts": 100,
@@ -3410,7 +3698,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-det-buf-2026-09-17-1",
       "ticker": "sports-nfl-nfl-det-buf-2026-09-17-1",
@@ -3428,7 +3716,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-det-buf-2026-09-17-0",
       "ticker": "sports-nfl-nfl-det-buf-2026-09-17-0",
@@ -3446,7 +3734,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
       "ticker": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
@@ -3464,7 +3752,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
       "ticker": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
@@ -3482,7 +3770,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-atl-2026-09-20-1",
       "ticker": "sports-nfl-nfl-car-atl-2026-09-20-1",
@@ -3500,7 +3788,7 @@
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-atl-2026-09-20-0",
       "ticker": "sports-nfl-nfl-car-atl-2026-09-20-0",
@@ -3518,7 +3806,7 @@
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-min-chi-2026-09-20-1",
       "ticker": "sports-nfl-nfl-min-chi-2026-09-20-1",
@@ -3536,7 +3824,7 @@
     },
     {
       "watch_rank": 8,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-min-chi-2026-09-20-0",
       "ticker": "sports-nfl-nfl-min-chi-2026-09-20-0",
@@ -3554,7 +3842,7 @@
     },
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-ne-2026-09-20-1",
       "ticker": "sports-nfl-nfl-pit-ne-2026-09-20-1",
@@ -3572,7 +3860,7 @@
     },
     {
       "watch_rank": 10,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-ne-2026-09-20-0",
       "ticker": "sports-nfl-nfl-pit-ne-2026-09-20-0",
@@ -3592,7 +3880,7 @@
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-det-buf-2026-09-17-1",
       "ticker": "sports-nfl-nfl-det-buf-2026-09-17-1",
@@ -3610,7 +3898,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-det-buf-2026-09-17-0",
       "ticker": "sports-nfl-nfl-det-buf-2026-09-17-0",
@@ -3628,7 +3916,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-atl-2026-09-20-1",
       "ticker": "sports-nfl-nfl-car-atl-2026-09-20-1",
@@ -3646,7 +3934,7 @@
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-atl-2026-09-20-0",
       "ticker": "sports-nfl-nfl-car-atl-2026-09-20-0",
@@ -3664,7 +3952,7 @@
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-min-chi-2026-09-20-1",
       "ticker": "sports-nfl-nfl-min-chi-2026-09-20-1",
@@ -3684,7 +3972,7 @@
   "watched_markets_ncaaf": [
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
       "ticker": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
@@ -3702,7 +3990,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
       "ticker": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
@@ -3720,7 +4008,7 @@
     }
   ],
   "daily_card": {
-    "snapshot_ts": "2026-09-10T17:24:12Z",
+    "snapshot_ts": "2026-09-10T17:36:10Z",
     "venue_a": "kalshi",
     "venue_b": "polymarket",
     "market_a_id": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -3738,7 +4026,7 @@
     "daily_card_summary": "kalshi has a live game line on Arizona vs Los Angeles C Pro Football game: Los Angeles C wins? | Los Angeles C, while polymarket is nearest on Will Los Angeles C win the Arizona vs Los Angeles C Pro Football game? | Los Angeles C. The spread is 1.5 pts.",
     "daily_card_cta": "Read today\u2019s mispricing board",
     "market_a": {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "kalshi",
       "market_id": "KXNFLGAME-26SEP13ARILAC-LAC",
       "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
@@ -3752,7 +4040,7 @@
       "yes_ask": 0.81,
       "yes_mid": 0.805,
       "last_price": 0.81,
-      "volume": 25499.63,
+      "volume": 25533.7,
       "liquidity": 0.0,
       "close_time": "2026-09-15T20:25:00Z",
       "status": "active",
@@ -3781,7 +4069,7 @@
           "no_sub_title": "Los Angeles C",
           "notional_value_dollars": "1.0000",
           "occurrence_datetime": "2026-09-13T23:25:00Z",
-          "open_interest_fp": "90519.26",
+          "open_interest_fp": "90538.59",
           "open_time": "2026-05-15T17:04:00Z",
           "previous_price_dollars": "0.8200",
           "previous_yes_ask_dollars": "0.8200",
@@ -3804,12 +4092,12 @@
           "ticker": "KXNFLGAME-26SEP13ARILAC-LAC",
           "title": "Arizona vs Los Angeles C Pro Football game: Los Angeles C wins?",
           "updated_time": "2026-08-25T01:35:37.635203Z",
-          "volume_24h_fp": "25499.63",
-          "volume_fp": "153554.79",
+          "volume_24h_fp": "25533.70",
+          "volume_fp": "153622.28",
           "yes_ask_dollars": "0.8100",
-          "yes_ask_size_fp": "317290.52",
+          "yes_ask_size_fp": "317260.11",
           "yes_bid_dollars": "0.8000",
-          "yes_bid_size_fp": "117652.61",
+          "yes_bid_size_fp": "117640.57",
           "yes_sub_title": "Los Angeles C",
           "series_ticker": "KXNFLGAME",
           "event_title": "Arizona vs Los Angeles C",
@@ -3819,7 +4107,7 @@
       }
     },
     "market_b": {
-      "snapshot_ts": "2026-09-10T17:24:12Z",
+      "snapshot_ts": "2026-09-10T17:36:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ari-lac-2026-09-13-1",
       "ticker": "sports-nfl-nfl-ari-lac-2026-09-13-1",
@@ -3879,6 +4167,24 @@
       "fee_breakdown": {
         "kalshi": 0.010773,
         "polymarket": 0.00738
+      },
+      "standalone_checks": {
+        "yes": {
+          "venue": "kalshi",
+          "contracts": 121,
+          "spent_dollars": 99.31,
+          "payout_if_wins_dollars": 121.0,
+          "result_if_wins_dollars": 21.69,
+          "result_if_loses_dollars": -99.31
+        },
+        "no": {
+          "venue": "polymarket",
+          "contracts": 533,
+          "spent_dollars": 99.87,
+          "payout_if_wins_dollars": 533.0,
+          "result_if_wins_dollars": 433.13,
+          "result_if_loses_dollars": -99.87
+        }
       },
       "bankroll_check": {
         "bankroll_dollars": 100.0,
