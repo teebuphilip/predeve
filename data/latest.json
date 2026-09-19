@@ -1,8 +1,8 @@
 {
-  "snapshot_ts": "2026-09-18T22:11:29Z",
+  "snapshot_ts": "2026-09-19T02:32:22Z",
   "focus_sport_family": "football",
   "include_baseball": false,
-  "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-09-18/normalized.jsonl",
+  "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-09-19/normalized.jsonl",
   "count": 0,
   "top_discrepancies": [],
   "top_discrepancies_nfl": [],
@@ -13,7 +13,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-1",
@@ -31,7 +31,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-0",
@@ -49,7 +49,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-1",
@@ -67,7 +67,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-0",
@@ -85,7 +85,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-1",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
@@ -103,7 +103,7 @@
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-0",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-0",
@@ -121,7 +121,7 @@
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-kc-mia-2026-09-27-1",
       "ticker": "sports-nfl-nfl-kc-mia-2026-09-27-1",
@@ -139,7 +139,7 @@
     },
     {
       "watch_rank": 8,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-kc-mia-2026-09-27-0",
       "ticker": "sports-nfl-nfl-kc-mia-2026-09-27-0",
@@ -157,7 +157,25 @@
     },
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
+      "venue": "kalshi",
+      "market_id": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
+      "ticker": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
+      "title": "Will Texas Tech win the Houston vs Texas Tech college football game? | Texas Tech",
+      "league": "ncaaf",
+      "sport_family": "football",
+      "series_ticker": "KXNCAAFGAME",
+      "event_ticker": "KXNCAAFGAME-26SEP18HOUTTU",
+      "yes_mid": 0.615,
+      "volume": 3626079.82,
+      "liquidity": 0.0,
+      "close_time": "2026-09-21T00:00:00Z",
+      "status": "active",
+      "watch_reason": "Kalshi live NCAAF game market, current yes 62c."
+    },
+    {
+      "watch_rank": 10,
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
       "ticker": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
@@ -167,35 +185,17 @@
       "series_ticker": "KXNCAAFGAME",
       "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
       "yes_mid": 0.415,
-      "volume": 355527.83,
+      "volume": 350810.27,
       "liquidity": 0.0,
       "close_time": "2026-09-21T23:30:00Z",
       "status": "active",
       "watch_reason": "Kalshi live NCAAF game market, current yes 42c."
-    },
-    {
-      "watch_rank": 10,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
-      "ticker": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
-      "title": "Will Houston win the Houston vs Texas Tech college football game? | Houston",
-      "league": "ncaaf",
-      "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP18HOUTTU",
-      "yes_mid": 0.265,
-      "volume": 611839.2,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T00:00:00Z",
-      "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 26c."
     }
   ],
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-1",
@@ -213,7 +213,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-0",
@@ -231,7 +231,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-1",
@@ -249,7 +249,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-0",
@@ -267,7 +267,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-1",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
@@ -287,7 +287,25 @@
   "watched_markets_ncaaf": [
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
+      "snapshot_ts": "2026-09-19T02:29:43Z",
+      "venue": "kalshi",
+      "market_id": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
+      "ticker": "KXNCAAFGAME-26SEP18HOUTTU-TTU",
+      "title": "Will Texas Tech win the Houston vs Texas Tech college football game? | Texas Tech",
+      "league": "ncaaf",
+      "sport_family": "football",
+      "series_ticker": "KXNCAAFGAME",
+      "event_ticker": "KXNCAAFGAME-26SEP18HOUTTU",
+      "yes_mid": 0.615,
+      "volume": 3626079.82,
+      "liquidity": 0.0,
+      "close_time": "2026-09-21T00:00:00Z",
+      "status": "active",
+      "watch_reason": "Kalshi live NCAAF game market, current yes 62c."
+    },
+    {
+      "watch_rank": 10,
+      "snapshot_ts": "2026-09-19T02:29:43Z",
       "venue": "kalshi",
       "market_id": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
       "ticker": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
@@ -297,29 +315,11 @@
       "series_ticker": "KXNCAAFGAME",
       "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
       "yes_mid": 0.415,
-      "volume": 355527.83,
+      "volume": 350810.27,
       "liquidity": 0.0,
       "close_time": "2026-09-21T23:30:00Z",
       "status": "active",
       "watch_reason": "Kalshi live NCAAF game market, current yes 42c."
-    },
-    {
-      "watch_rank": 10,
-      "snapshot_ts": "2026-09-18T22:08:56Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
-      "ticker": "KXNCAAFGAME-26SEP18HOUTTU-HOU",
-      "title": "Will Houston win the Houston vs Texas Tech college football game? | Houston",
-      "league": "ncaaf",
-      "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP18HOUTTU",
-      "yes_mid": 0.265,
-      "volume": 611839.2,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T00:00:00Z",
-      "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 26c."
     }
   ],
   "daily_card": null
