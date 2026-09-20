@@ -1,5 +1,5 @@
 {
-  "snapshot_ts": "2026-09-20T02:40:28Z",
+  "snapshot_ts": "2026-09-20T08:59:17Z",
   "focus_sport_family": "football",
   "include_baseball": false,
   "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-09-20/normalized.jsonl",
@@ -13,7 +13,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-1",
@@ -31,7 +31,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-0",
@@ -49,7 +49,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-1",
@@ -67,7 +67,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-0",
@@ -85,7 +85,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-1",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
@@ -94,16 +94,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
-      "yes_mid": 0.43,
+      "yes_mid": 0.42,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-09-27T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 43c."
+      "watch_reason": "Polymarket live NFL game market, current yes 42c."
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-0",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-0",
@@ -121,7 +121,7 @@
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-kc-mia-2026-09-27-1",
       "ticker": "sports-nfl-nfl-kc-mia-2026-09-27-1",
@@ -139,7 +139,7 @@
     },
     {
       "watch_rank": 8,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-kc-mia-2026-09-27-0",
       "ticker": "sports-nfl-nfl-kc-mia-2026-09-27-0",
@@ -148,54 +148,54 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-kc-mia-2026-09-27-0",
-      "yes_mid": 0.83,
+      "yes_mid": 0.84,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-09-27T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 83c."
+      "watch_reason": "Polymarket live NFL game market, current yes 84c."
     },
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
-      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
-      "title": "Will Ole Miss win the LSU vs Ole Miss college football game? | Ole Miss",
-      "league": "ncaaf",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
+      "venue": "polymarket",
+      "market_id": "4384969",
+      "ticker": "nfl-ind-kc-2026-09-21-spread-home-5pt5",
+      "title": "Spread: KC (-5.5)",
+      "league": "nfl",
       "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
-      "yes_mid": 0.425,
-      "volume": 14991433.89,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T23:30:00Z",
+      "series_ticker": null,
+      "event_ticker": "nfl-ind-kc-2026-09-21-spread-home-5pt5",
+      "yes_mid": 0.505,
+      "volume": 242847.04789500005,
+      "liquidity": 176751.603,
+      "close_time": "2026-09-21",
       "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 42c."
+      "watch_reason": "Polymarket NFL market being monitored, current yes 50c."
     },
     {
       "watch_rank": 10,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
-      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
-      "title": "Will LSU win the LSU vs Ole Miss college football game? | LSU",
-      "league": "ncaaf",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
+      "venue": "polymarket",
+      "market_id": "3516972",
+      "ticker": "nfl-ind-kc-2026-09-21-spread-home-6pt5",
+      "title": "Spread: Chiefs (-6.5)",
+      "league": "nfl",
       "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
-      "yes_mid": 0.575,
-      "volume": 18155909.65,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T23:30:00Z",
+      "series_ticker": null,
+      "event_ticker": "nfl-ind-kc-2026-09-21-spread-home-6pt5",
+      "yes_mid": 0.465,
+      "volume": 13159.317318,
+      "liquidity": 360203.3871,
+      "close_time": "2026-09-21",
       "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 57c."
+      "watch_reason": "Polymarket NFL market being monitored, current yes 46c."
     }
   ],
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-1",
@@ -213,7 +213,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-jax-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ne-jax-2026-09-27-0",
@@ -231,7 +231,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-1",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-1",
@@ -249,7 +249,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ten-nyg-2026-09-27-0",
       "ticker": "sports-nfl-nfl-ten-nyg-2026-09-27-0",
@@ -267,7 +267,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
+      "snapshot_ts": "2026-09-20T08:58:30Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-car-cle-2026-09-27-1",
       "ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
@@ -276,51 +276,14 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-car-cle-2026-09-27-1",
-      "yes_mid": 0.43,
+      "yes_mid": 0.42,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-09-27T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 43c."
+      "watch_reason": "Polymarket live NFL game market, current yes 42c."
     }
   ],
-  "watched_markets_ncaaf": [
-    {
-      "watch_rank": 9,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
-      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-MISS",
-      "title": "Will Ole Miss win the LSU vs Ole Miss college football game? | Ole Miss",
-      "league": "ncaaf",
-      "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
-      "yes_mid": 0.425,
-      "volume": 14991433.89,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T23:30:00Z",
-      "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 42c."
-    },
-    {
-      "watch_rank": 10,
-      "snapshot_ts": "2026-09-20T02:39:03Z",
-      "venue": "kalshi",
-      "market_id": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
-      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
-      "title": "Will LSU win the LSU vs Ole Miss college football game? | LSU",
-      "league": "ncaaf",
-      "sport_family": "football",
-      "series_ticker": "KXNCAAFGAME",
-      "event_ticker": "KXNCAAFGAME-26SEP19LSUMISS",
-      "yes_mid": 0.575,
-      "volume": 18155909.65,
-      "liquidity": 0.0,
-      "close_time": "2026-09-21T23:30:00Z",
-      "status": "active",
-      "watch_reason": "Kalshi live NCAAF game market, current yes 57c."
-    }
-  ],
+  "watched_markets_ncaaf": [],
   "daily_card": null
 }
