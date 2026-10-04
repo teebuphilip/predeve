@@ -1,8 +1,8 @@
 {
-  "snapshot_ts": "2026-10-03T22:34:46Z",
+  "snapshot_ts": "2026-10-04T03:35:42Z",
   "focus_sport_family": "football",
   "include_baseball": false,
-  "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-10-03/normalized.jsonl",
+  "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-10-04/normalized.jsonl",
   "count": 0,
   "top_discrepancies": [],
   "top_discrepancies_nfl": [],
@@ -13,7 +13,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-phi-jax-2026-10-11-1",
       "ticker": "sports-nfl-nfl-phi-jax-2026-10-11-1",
@@ -31,7 +31,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-phi-jax-2026-10-11-0",
       "ticker": "sports-nfl-nfl-phi-jax-2026-10-11-0",
@@ -40,16 +40,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-phi-jax-2026-10-11-0",
-      "yes_mid": 0.44,
+      "yes_mid": 0.43,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-11T09:30:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 44c."
+      "watch_reason": "Polymarket live NFL game market, current yes 43c."
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-lv-ne-2026-10-11-1",
       "ticker": "sports-nfl-nfl-lv-ne-2026-10-11-1",
@@ -67,7 +67,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-lv-ne-2026-10-11-0",
       "ticker": "sports-nfl-nfl-lv-ne-2026-10-11-0",
@@ -85,7 +85,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-mia-2026-10-11-1",
       "ticker": "sports-nfl-nfl-cin-mia-2026-10-11-1",
@@ -94,16 +94,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cin-mia-2026-10-11-1",
-      "yes_mid": 0.19,
+      "yes_mid": 0.2,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-11T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 19c."
+      "watch_reason": "Polymarket live NFL game market, current yes 20c."
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-mia-2026-10-11-0",
       "ticker": "sports-nfl-nfl-cin-mia-2026-10-11-0",
@@ -121,7 +121,7 @@
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cle-nyj-2026-10-11-1",
       "ticker": "sports-nfl-nfl-cle-nyj-2026-10-11-1",
@@ -139,7 +139,7 @@
     },
     {
       "watch_rank": 8,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cle-nyj-2026-10-11-0",
       "ticker": "sports-nfl-nfl-cle-nyj-2026-10-11-0",
@@ -148,54 +148,54 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cle-nyj-2026-10-11-0",
-      "yes_mid": 0.48,
+      "yes_mid": 0.5,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-11T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 48c."
+      "watch_reason": "Polymarket live NFL game market, current yes 50c."
     },
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
-      "market_id": "poly-us-sports-nfl-nfl-ind-was-2026-10-04-1",
-      "ticker": "sports-nfl-nfl-ind-was-2026-10-04-1",
-      "title": "Will WAS Commanders win the IND Colts vs WAS Commanders Pro Football game? | WAS Commanders",
-      "league": "nfl",
+      "market_id": "poly-us-sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "ticker": "sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "title": "Will Wyoming win the Wyoming vs San Jose State College Football game? | Wyoming",
+      "league": "ncaaf",
       "sport_family": "football",
       "series_ticker": null,
-      "event_ticker": "sports-nfl-nfl-ind-was-2026-10-04-1",
-      "yes_mid": 0.35,
+      "event_ticker": "sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "yes_mid": 0.37,
       "volume": null,
       "liquidity": null,
-      "close_time": "2026-10-04T09:30:00Z",
+      "close_time": "2026-10-09T21:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 35c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 37c."
     },
     {
       "watch_rank": 10,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
-      "market_id": "poly-us-sports-nfl-nfl-ten-bal-2026-10-04-0",
-      "ticker": "sports-nfl-nfl-ten-bal-2026-10-04-0",
-      "title": "Will TEN Titans win the TEN Titans vs BAL Ravens Pro Football game? | TEN Titans",
-      "league": "nfl",
+      "market_id": "poly-us-sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "ticker": "sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "title": "Will Western Kentucky win the Missouri State vs Western Kentucky College Football game? | Western Kentucky",
+      "league": "ncaaf",
       "sport_family": "football",
       "series_ticker": null,
-      "event_ticker": "sports-nfl-nfl-ten-bal-2026-10-04-0",
-      "yes_mid": 0.15,
+      "event_ticker": "sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "yes_mid": 0.56,
       "volume": null,
       "liquidity": null,
-      "close_time": "2026-10-04T13:00:00Z",
+      "close_time": "2026-10-08T19:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 15c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 56c."
     }
   ],
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-phi-jax-2026-10-11-1",
       "ticker": "sports-nfl-nfl-phi-jax-2026-10-11-1",
@@ -213,7 +213,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-phi-jax-2026-10-11-0",
       "ticker": "sports-nfl-nfl-phi-jax-2026-10-11-0",
@@ -222,16 +222,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-phi-jax-2026-10-11-0",
-      "yes_mid": 0.44,
+      "yes_mid": 0.43,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-11T09:30:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 44c."
+      "watch_reason": "Polymarket live NFL game market, current yes 43c."
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-lv-ne-2026-10-11-1",
       "ticker": "sports-nfl-nfl-lv-ne-2026-10-11-1",
@@ -249,7 +249,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-lv-ne-2026-10-11-0",
       "ticker": "sports-nfl-nfl-lv-ne-2026-10-11-0",
@@ -267,7 +267,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-10-03T22:34:37Z",
+      "snapshot_ts": "2026-10-04T03:35:34Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-mia-2026-10-11-1",
       "ticker": "sports-nfl-nfl-cin-mia-2026-10-11-1",
@@ -276,14 +276,51 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cin-mia-2026-10-11-1",
-      "yes_mid": 0.19,
+      "yes_mid": 0.2,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-11T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 19c."
+      "watch_reason": "Polymarket live NFL game market, current yes 20c."
     }
   ],
-  "watched_markets_ncaaf": [],
+  "watched_markets_ncaaf": [
+    {
+      "watch_rank": 9,
+      "snapshot_ts": "2026-10-04T03:35:34Z",
+      "venue": "polymarket",
+      "market_id": "poly-us-sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "ticker": "sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "title": "Will Wyoming win the Wyoming vs San Jose State College Football game? | Wyoming",
+      "league": "ncaaf",
+      "sport_family": "football",
+      "series_ticker": null,
+      "event_ticker": "sports-cfb-cfb-wyom-sjst-2026-10-09-0",
+      "yes_mid": 0.37,
+      "volume": null,
+      "liquidity": null,
+      "close_time": "2026-10-09T21:00:00Z",
+      "status": "active",
+      "watch_reason": "Polymarket live NCAAF game market, current yes 37c."
+    },
+    {
+      "watch_rank": 10,
+      "snapshot_ts": "2026-10-04T03:35:34Z",
+      "venue": "polymarket",
+      "market_id": "poly-us-sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "ticker": "sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "title": "Will Western Kentucky win the Missouri State vs Western Kentucky College Football game? | Western Kentucky",
+      "league": "ncaaf",
+      "sport_family": "football",
+      "series_ticker": null,
+      "event_ticker": "sports-cfb-cfb-msrst-wkent-2026-10-08-1",
+      "yes_mid": 0.56,
+      "volume": null,
+      "liquidity": null,
+      "close_time": "2026-10-08T19:00:00Z",
+      "status": "active",
+      "watch_reason": "Polymarket live NCAAF game market, current yes 56c."
+    }
+  ],
   "daily_card": null
 }
