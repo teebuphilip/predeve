@@ -1,5 +1,5 @@
 {
-  "snapshot_ts": "2026-10-15T08:44:09Z",
+  "snapshot_ts": "2026-10-15T16:02:54Z",
   "focus_sport_family": "football",
   "include_baseball": false,
   "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-10-15/normalized.jsonl",
@@ -13,7 +13,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-chi-2026-10-22-1",
       "ticker": "sports-nfl-nfl-ne-chi-2026-10-22-1",
@@ -31,7 +31,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-chi-2026-10-22-0",
       "ticker": "sports-nfl-nfl-ne-chi-2026-10-22-0",
@@ -40,16 +40,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-ne-chi-2026-10-22-0",
-      "yes_mid": 0.47,
+      "yes_mid": 0.46,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-22T20:15:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 47c."
+      "watch_reason": "Polymarket live NFL game market, current yes 46c."
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-no-2026-10-25-1",
       "ticker": "sports-nfl-nfl-pit-no-2026-10-25-1",
@@ -67,7 +67,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-no-2026-10-25-0",
       "ticker": "sports-nfl-nfl-pit-no-2026-10-25-0",
@@ -85,7 +85,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cle-ten-2026-10-25-1",
       "ticker": "sports-nfl-nfl-cle-ten-2026-10-25-1",
@@ -103,7 +103,7 @@
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cle-ten-2026-10-25-0",
       "ticker": "sports-nfl-nfl-cle-ten-2026-10-25-0",
@@ -112,16 +112,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cle-ten-2026-10-25-0",
-      "yes_mid": 0.53,
+      "yes_mid": 0.52,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-25T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 53c."
+      "watch_reason": "Polymarket live NFL game market, current yes 52c."
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-bal-2026-10-25-1",
       "ticker": "sports-nfl-nfl-cin-bal-2026-10-25-1",
@@ -130,16 +130,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cin-bal-2026-10-25-1",
-      "yes_mid": 0.62,
+      "yes_mid": 0.63,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-25T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 62c."
+      "watch_reason": "Polymarket live NFL game market, current yes 63c."
     },
     {
       "watch_rank": 8,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-bal-2026-10-25-0",
       "ticker": "sports-nfl-nfl-cin-bal-2026-10-25-0",
@@ -148,16 +148,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-cin-bal-2026-10-25-0",
-      "yes_mid": 0.4,
+      "yes_mid": 0.38,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-25T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 40c."
+      "watch_reason": "Polymarket live NFL game market, current yes 38c."
     },
     {
       "watch_rank": 9,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-mia-nyj-2026-10-25-1",
       "ticker": "sports-nfl-nfl-mia-nyj-2026-10-25-1",
@@ -175,7 +175,7 @@
     },
     {
       "watch_rank": 10,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-mia-nyj-2026-10-25-0",
       "ticker": "sports-nfl-nfl-mia-nyj-2026-10-25-0",
@@ -184,18 +184,18 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-mia-nyj-2026-10-25-0",
-      "yes_mid": 0.35,
+      "yes_mid": 0.34,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-25T13:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 35c."
+      "watch_reason": "Polymarket live NFL game market, current yes 34c."
     }
   ],
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-chi-2026-10-22-1",
       "ticker": "sports-nfl-nfl-ne-chi-2026-10-22-1",
@@ -213,7 +213,7 @@
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-ne-chi-2026-10-22-0",
       "ticker": "sports-nfl-nfl-ne-chi-2026-10-22-0",
@@ -222,16 +222,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-nfl-nfl-ne-chi-2026-10-22-0",
-      "yes_mid": 0.47,
+      "yes_mid": 0.46,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-10-22T20:15:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NFL game market, current yes 47c."
+      "watch_reason": "Polymarket live NFL game market, current yes 46c."
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-no-2026-10-25-1",
       "ticker": "sports-nfl-nfl-pit-no-2026-10-25-1",
@@ -249,7 +249,7 @@
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-pit-no-2026-10-25-0",
       "ticker": "sports-nfl-nfl-pit-no-2026-10-25-0",
@@ -267,7 +267,7 @@
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-10-15T08:44:01Z",
+      "snapshot_ts": "2026-10-15T16:02:46Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cle-ten-2026-10-25-1",
       "ticker": "sports-nfl-nfl-cle-ten-2026-10-25-1",
