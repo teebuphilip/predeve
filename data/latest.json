@@ -1,5 +1,5 @@
 {
-  "snapshot_ts": "2026-11-22T15:49:38Z",
+  "snapshot_ts": "2026-11-22T21:26:24Z",
   "focus_sport_family": "football",
   "include_baseball": false,
   "input_path": "/home/runner/work/poly-kalshi-overlap/poly-kalshi-overlap/data/markets/2026-11-22/normalized.jsonl",
@@ -13,7 +13,7 @@
   "watched_markets": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567025",
       "ticker": "scorigami-in-week-12-of-the-2026-27-nfl-season",
@@ -24,14 +24,14 @@
       "event_ticker": "scorigami-in-week-12-of-the-2026-27-nfl-season",
       "yes_mid": 0.165,
       "volume": 2163.325716,
-      "liquidity": 1442.81,
+      "liquidity": 1496.9928,
       "close_time": "2026-12-01",
       "status": "active",
       "watch_reason": "Polymarket NFL market being monitored, current yes 16c."
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567026",
       "ticker": "scorigami-in-week-13-of-the-2026-27-nfl-season",
@@ -49,7 +49,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567024",
       "ticker": "scorigami-in-week-11-of-the-2026-27-nfl-season",
@@ -58,16 +58,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "scorigami-in-week-11-of-the-2026-27-nfl-season",
-      "yes_mid": 0.12,
-      "volume": 2939.131335,
-      "liquidity": 1418.7273,
+      "yes_mid": 0.76,
+      "volume": 2856.65,
+      "liquidity": 689.02,
       "close_time": "2026-11-24",
       "status": "active",
-      "watch_reason": "Polymarket NFL market being monitored, current yes 12c."
+      "watch_reason": "Polymarket NFL market being monitored, current yes 76c."
     },
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-minnst-wisc-2026-11-27-1",
       "ticker": "sports-cfb-cfb-minnst-wisc-2026-11-27-1",
@@ -76,16 +76,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-minnst-wisc-2026-11-27-1",
-      "yes_mid": 0.68,
+      "yes_mid": 0.72,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T19:30:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 68c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 72c."
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
       "ticker": "sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
@@ -94,16 +94,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
-      "yes_mid": 0.75,
+      "yes_mid": 0.74,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-24T19:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 75c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 74c."
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-wvir-utah-2026-11-27-0",
       "ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-0",
@@ -112,16 +112,34 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-0",
-      "yes_mid": 0.1,
+      "yes_mid": 0.09,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T21:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 10c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 9c."
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
+      "venue": "polymarket",
+      "market_id": "poly-us-sports-nfl-nfl-was-ari-2026-11-29-0",
+      "ticker": "sports-nfl-nfl-was-ari-2026-11-29-0",
+      "title": "Will WAS Commanders win the WAS Commanders vs ARI Cardinals Pro Football game? | WAS Commanders",
+      "league": "nfl",
+      "sport_family": "football",
+      "series_ticker": null,
+      "event_ticker": "sports-nfl-nfl-was-ari-2026-11-29-0",
+      "yes_mid": 0.76,
+      "volume": null,
+      "liquidity": null,
+      "close_time": "2026-11-29T16:25:00Z",
+      "status": "active",
+      "watch_reason": "Polymarket live NFL game market, current yes 76c."
+    },
+    {
+      "watch_rank": 8,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-was-2026-11-23-1",
       "ticker": "sports-nfl-nfl-cin-was-2026-11-23-1",
@@ -138,8 +156,8 @@
       "watch_reason": "Polymarket live NFL game market, current yes 28c."
     },
     {
-      "watch_rank": 8,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "watch_rank": 9,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-wvir-utah-2026-11-27-1",
       "ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-1",
@@ -148,16 +166,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-1",
-      "yes_mid": 0.9,
+      "yes_mid": 0.92,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T21:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 90c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 92c."
     },
     {
-      "watch_rank": 9,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "watch_rank": 10,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
       "ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
@@ -166,36 +184,18 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
-      "yes_mid": 0.56,
+      "yes_mid": 0.54,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T12:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 56c."
-    },
-    {
-      "watch_rank": 10,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
-      "venue": "polymarket",
-      "market_id": "poly-us-sports-cfb-cfb-tulsa-utsa-2026-11-27-0",
-      "ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-0",
-      "title": "Will Tulsa win the Tulsa vs UTSA College Football game? | Tulsa",
-      "league": "ncaaf",
-      "sport_family": "football",
-      "series_ticker": null,
-      "event_ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-0",
-      "yes_mid": 0.47,
-      "volume": null,
-      "liquidity": null,
-      "close_time": "2026-11-27T12:00:00Z",
-      "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 47c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 54c."
     }
   ],
   "watched_markets_nfl": [
     {
       "watch_rank": 1,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567025",
       "ticker": "scorigami-in-week-12-of-the-2026-27-nfl-season",
@@ -206,14 +206,14 @@
       "event_ticker": "scorigami-in-week-12-of-the-2026-27-nfl-season",
       "yes_mid": 0.165,
       "volume": 2163.325716,
-      "liquidity": 1442.81,
+      "liquidity": 1496.9928,
       "close_time": "2026-12-01",
       "status": "active",
       "watch_reason": "Polymarket NFL market being monitored, current yes 16c."
     },
     {
       "watch_rank": 2,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567026",
       "ticker": "scorigami-in-week-13-of-the-2026-27-nfl-season",
@@ -231,7 +231,7 @@
     },
     {
       "watch_rank": 3,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "4567024",
       "ticker": "scorigami-in-week-11-of-the-2026-27-nfl-season",
@@ -240,16 +240,34 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "scorigami-in-week-11-of-the-2026-27-nfl-season",
-      "yes_mid": 0.12,
-      "volume": 2939.131335,
-      "liquidity": 1418.7273,
+      "yes_mid": 0.76,
+      "volume": 2856.65,
+      "liquidity": 689.02,
       "close_time": "2026-11-24",
       "status": "active",
-      "watch_reason": "Polymarket NFL market being monitored, current yes 12c."
+      "watch_reason": "Polymarket NFL market being monitored, current yes 76c."
     },
     {
       "watch_rank": 7,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
+      "venue": "polymarket",
+      "market_id": "poly-us-sports-nfl-nfl-was-ari-2026-11-29-0",
+      "ticker": "sports-nfl-nfl-was-ari-2026-11-29-0",
+      "title": "Will WAS Commanders win the WAS Commanders vs ARI Cardinals Pro Football game? | WAS Commanders",
+      "league": "nfl",
+      "sport_family": "football",
+      "series_ticker": null,
+      "event_ticker": "sports-nfl-nfl-was-ari-2026-11-29-0",
+      "yes_mid": 0.76,
+      "volume": null,
+      "liquidity": null,
+      "close_time": "2026-11-29T16:25:00Z",
+      "status": "active",
+      "watch_reason": "Polymarket live NFL game market, current yes 76c."
+    },
+    {
+      "watch_rank": 8,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-nfl-nfl-cin-was-2026-11-23-1",
       "ticker": "sports-nfl-nfl-cin-was-2026-11-23-1",
@@ -269,7 +287,7 @@
   "watched_markets_ncaaf": [
     {
       "watch_rank": 4,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-minnst-wisc-2026-11-27-1",
       "ticker": "sports-cfb-cfb-minnst-wisc-2026-11-27-1",
@@ -278,16 +296,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-minnst-wisc-2026-11-27-1",
-      "yes_mid": 0.68,
+      "yes_mid": 0.72,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T19:30:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 68c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 72c."
     },
     {
       "watch_rank": 5,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
       "ticker": "sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
@@ -296,16 +314,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-miaoh-wmich-2026-11-24-1",
-      "yes_mid": 0.75,
+      "yes_mid": 0.74,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-24T19:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 75c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 74c."
     },
     {
       "watch_rank": 6,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-wvir-utah-2026-11-27-0",
       "ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-0",
@@ -314,16 +332,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-0",
-      "yes_mid": 0.1,
+      "yes_mid": 0.09,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T21:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 10c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 9c."
     },
     {
-      "watch_rank": 8,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "watch_rank": 9,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-wvir-utah-2026-11-27-1",
       "ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-1",
@@ -332,16 +350,16 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-wvir-utah-2026-11-27-1",
-      "yes_mid": 0.9,
+      "yes_mid": 0.92,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T21:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 90c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 92c."
     },
     {
-      "watch_rank": 9,
-      "snapshot_ts": "2026-11-22T15:49:28Z",
+      "watch_rank": 10,
+      "snapshot_ts": "2026-11-22T21:26:10Z",
       "venue": "polymarket",
       "market_id": "poly-us-sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
       "ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
@@ -350,12 +368,12 @@
       "sport_family": "football",
       "series_ticker": null,
       "event_ticker": "sports-cfb-cfb-tulsa-utsa-2026-11-27-1",
-      "yes_mid": 0.56,
+      "yes_mid": 0.54,
       "volume": null,
       "liquidity": null,
       "close_time": "2026-11-27T12:00:00Z",
       "status": "active",
-      "watch_reason": "Polymarket live NCAAF game market, current yes 56c."
+      "watch_reason": "Polymarket live NCAAF game market, current yes 54c."
     }
   ],
   "daily_card": null
